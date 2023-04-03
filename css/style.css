@@ -13,6 +13,7 @@ h1{
 }
 section{
      display: flex;
+     margin-bottom: 70px;
 }
 .nav{
      width: 50%;
@@ -34,4 +35,13 @@ section{
 .top-bannar{
      background-image: url(/images/header_bg.png);
      background-repeat: no-repeat;
+     background-size: 10%;
+}
+
+
+.drem-b{
+     background-image: url(/images/developer.png);
+     background-position: right;
+     background-repeat: no-repeat;
+     
 }
