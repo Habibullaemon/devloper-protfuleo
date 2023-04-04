@@ -11,7 +11,7 @@ h1{
 .orange-color{
      color: orange;
 }
-section{
+.flec-container{
      display: flex;
      margin-bottom: 70px;
 }
@@ -44,4 +44,29 @@ section{
      background-position: right;
      background-repeat: no-repeat;
      
+}
+
+
+.experience-item{
+     width: 40%;
+     margin-left: 5%;
+     margin-right: 5%;
+     padding-left: 20px;
+     border-radius: 10px;
+     box-shadow: 10px 10px 40px gray;
+     
+}
+
+#baby-stsck{
+     
+     border-left: 7px solid blue;
+}
+
+#full-stsck{
+     border-left: 7px solid tomato;
+
+}
+
+footer p{
+     text-align: center;
 }
